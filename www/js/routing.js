@@ -1,0 +1,24 @@
+forumApp.config($routeProvider,{
+  $routeProvider
+  .when("/",{
+    templateUrl:"",
+    controller:""
+  })
+  .when("/forums",{
+    templateUrl:"",
+    controller:""
+  })
+  .when("/user",{
+    templateUrl:"",
+    controller:""
+  })
+  .when("/",{
+    templateUrl:"",
+    controller:""
+  })
+  .when("/",{
+    templateUrl:"",
+    controller:""
+  }).
+  otherwise({redirectTo:"/"})
+});
