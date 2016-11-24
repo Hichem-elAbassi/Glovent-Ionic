@@ -1,35 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Ionic App Base
-=====================
+#Glovent-IONIC
 
-A starting project for Ionic that optionally supports using custom SCSS.
-
-## Using this project
-
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
-
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
-
-```bash
-$ npm install -g ionic
-```
-
-Then run: 
-
-```bash
-$ ionic start myProject tabs
-```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
-
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
-=======
-# Glovent-Ionic
-Ionic1 application for the Glovent project.
->>>>>>> e8d400310c6b00900da01643c3a53419ce29fe6f
-=======
-# Glovent-Ionic
-Ionic1 application for the Glovent project.
->>>>>>> e8d400310c6b00900da01643c3a53419ce29fe6f
+Description:
+The third sprint in a collaborative team project,course assignment for the 4th year @ESPRIT-Tunisia,in which we are going to develop a cross-platform application for mobile devices (Mainly:Android & iOS).
+##The subject is still the same : Event managment tool for organizations and professionals.
